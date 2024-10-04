@@ -179,94 +179,94 @@
 
 #### **🌍 Global**  
 - **MIUI 13 Version 13.1.4**  
-  - [Magisk.27.NABU.V13.1.4.0.SKXMIXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk.27.NABU.V13.1.4.0.SKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXMIXM.GLOBAL.boot.img)  
 - **MIUI 13 Version 13.1.3**  
-  - [Magisk.27.NABU.V13.1.3.0.SKXMIXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.3.0.SKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk.27.NABU.V13.1.3.0.SKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.3.0.SKXMIXM.GLOBAL.boot.img)  
 - **MIUI 13 Version 13.0.4**  
-  - [Magisk.27.NABU.V13.0.4.0.RKXMIXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk.27.NABU.V13.0.4.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXMIXM.GLOBAL.boot.img)  
 - **MIUI 13 Version 13.0.3**  
-  - [Magisk.27.NABU.V13.0.3.0.RKXMIXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk.27.NABU.V13.0.3.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXMIXM.GLOBAL.boot.img)  
 - **MIUI 13 Version 13.0.2**  
-  - [Magisk.27.NABU.V13.0.2.0.RKXMIXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk.27.NABU.V13.0.2.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXMIXM.GLOBAL.boot.img)  
 - **MIUI 13 Version 13.0.1**  
-  - [Magisk.27.NABU.V13.0.1.0.RKXMIXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.1.0.RKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk.27.NABU.V13.0.1.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.1.0.RKXMIXM.GLOBAL.boot.img)  
 
 #### **🇮🇳 India**  
 - **MIUI 13 Version 13.1.8**  
-  - [Magisk.27.NABU.V13.1.8.0.SKXINXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.8.0.SKXINXM.INDIA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.8.0.SKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.8.0.SKXINXM.INDIA.boot.img)  
 - **MIUI 13 Version 13.1.4**  
-  - [Magisk.27.NABU.V13.1.4.0.SKXINXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXINXM.INDIA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.4.0.SKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXINXM.INDIA.boot.img)  
 - **MIUI 13 Version 13.1.3**  
-  - [Magisk.27.NABU.V13.1.3.0.SKXINXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.3.0.SKXINXM.INDIA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.3.0.SKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.3.0.SKXINXM.INDIA.boot.img)  
 - **MIUI 13 Version 13.0.6**  
-  - [Magisk.27.NABU.V13.0.6.0.RKXINXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.6.0.RKXINXM.INDIA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.6.0.RKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.6.0.RKXINXM.INDIA.boot.img)  
 - **MIUI 13 Version 13.0.5**  
-  - [Magisk.27.NABU.V13.0.5.0.RKXINXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.5.0.RKXINXM.INDIA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.5.0.RKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.5.0.RKXINXM.INDIA.boot.img)  
 - **MIUI 13 Version 13.0.4**  
-  - [Magisk.27.NABU.V13.0.4.0.RKXINXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXINXM.INDIA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.4.0.RKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXINXM.INDIA.boot.img)  
   
 
 #### **🇷🇺 Russia**  
 - **MIUI 13 Version 13.1.6**  
-  - [Magisk.27.NABU.V13.1.6.0.SKXRUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.6.0.SKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.6.0.SKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.6.0.SKXRUXM.RUSSIA.boot.img)  
 - **MIUI 13 Version 13.1.4**  
-  - [Magisk.27.NABU.V13.1.4.0.SKXRUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.4.0.SKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXRUXM.RUSSIA.boot.img)  
 - **MIUI 13 Version 13.0.3**  
-  - [Magisk.27.NABU.V13.0.3.0.RKXRUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.3.0.RKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXRUXM.RUSSIA.boot.img)  
 - **MIUI 13 Version 13.0.2**  
-  - [Magisk.27.NABU.V13.0.2.0.RKXRUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.2.0.RKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXRUXM.RUSSIA.boot.img)  
 - **MIUI 13 Version 13.0.1**  
-  - [Magisk.27.NABU.V13.0.1.0.RKXRUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.1.0.RKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.1.0.RKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.1.0.RKXRUXM.RUSSIA.boot.img)  
 
 #### **🇪🇺 EEA**  
 - **MIUI 13 Version 13.1.5**  
-  - [Magisk.27.NABU.V13.1.5.0.SKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.5.0.SKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.5.0.SKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.5.0.SKXEUXM.EEA.boot.img)  
 - **MIUI 13 Version 13.1.3**  
-  - [Magisk.27.NABU.V13.1.3.0.SKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.3.0.SKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.3.0.SKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.3.0.SKXEUXM.EEA.boot.img)  
 - **MIUI 13 Version 13.1.2**  
-  - [Magisk.27.NABU.V13.1.2.0.SKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.2.0.SKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.2.0.SKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.2.0.SKXEUXM.EEA.boot.img)  
 - **MIUI 13 Version 13.0.6**  
-  - [Magisk.27.NABU.V13.0.6.0.RKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.6.0.RKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.6.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.6.0.RKXEUXM.EEA.boot.img)  
 - **MIUI 13 Version 13.0.5**  
-  - [Magisk.27.NABU.V13.0.5.0.RKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.5.0.RKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.5.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.5.0.RKXEUXM.EEA.boot.img)  
 - **MIUI 13 Version 13.0.4**  
-  - [Magisk.27.NABU.V13.0.4.0.RKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.4.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXEUXM.EEA.boot.img)  
 - **MIUI 13 Version 13.0.3**  
-  - [Magisk.27.NABU.V13.0.3.0.RKXEUXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXEUXM.EEA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.3.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXEUXM.EEA.boot.img)  
 
 #### **🇨🇳 China**  
 - **MIUI 13 Version 13.1.5**  
-  - [Magisk.27.NABU.V13.1.5.0.SKXCNXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.5.0.SKXCNXM.CHINA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.5.0.SKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.5.0.SKXCNXM.CHINA.boot.img)  
 - **MIUI 13 Version 13.1.4**  
-  - [Magisk.27.NABU.V13.1.4.0.SKXCNXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXCNXM.CHINA.boot.img)  
+  - [`Magisk.27.NABU.V13.1.4.0.SKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.4.0.SKXCNXM.CHINA.boot.img)  
 - **MIUI 13 Version 13.0.9**  
-  - [Magisk.27.NABU.V13.0.9.0.RKXCNXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.9.0.RKXCNXM.CHINA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.9.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.9.0.RKXCNXM.CHINA.boot.img)  
 - **MIUI 13 Version 13.0.8**  
-  - [Magisk.27.NABU.V13.0.8.0.RKXCNXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.8.0.RKXCNXM.CHINA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.8.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.8.0.RKXCNXM.CHINA.boot.img)  
 - **MIUI 13 Version 13.0.5**  
-  - [Magisk.27.NABU.V13.0.5.0.RKXCNXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.5.0.RKXCNXM.CHINA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.5.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.5.0.RKXCNXM.CHINA.boot.img)  
 - **MIUI 13 Version 13.0.3**  
-  - [Magisk.27.NABU.V13.0.3.0.RKXCNXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXCNXM.CHINA.boot.img)  
+  - [`Magisk.27.NABU.V13.0.3.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXCNXM.CHINA.boot.img)  
 
 #### **🇹🇷 Turkey**  
 - **MIUI 13 Version 13.1.2**  
-  - [Magisk.27.NABU.V13.1.2.0.SKXTRXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.2.0.SKXTRXM.TURKEY.boot.img)  
+  - [`Magisk.27.NABU.V13.1.2.0.SKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.2.0.SKXTRXM.TURKEY.boot.img)  
 - **MIUI 13 Version 13.0.3**  
-  - [Magisk.27.NABU.V13.0.3.0.RKXTRXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXTRXM.TURKEY.boot.img)  
+  - [`Magisk.27.NABU.V13.0.3.0.RKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXTRXM.TURKEY.boot.img)  
 - **MIUI 13 Version 13.0.2**  
-  - [Magisk.27.NABU.V13.0.2.0.RKXTRXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXTRXM.TURKEY.boot.img)  
+  - [`Magisk.27.NABU.V13.0.2.0.RKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXTRXM.TURKEY.boot.img)  
 - **MIUI 13 Version 13.0.1**  
-  - [Magisk.27.NABU.V13.0.1.0.RKXTRXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.1.0.RKXTRXM.TURKEY.boot.img)  
+  - [`Magisk.27.NABU.V13.0.1.0.RKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.1.0.RKXTRXM.TURKEY.boot.img)  
 
 #### **🇹🇼 Taiwan**  
 - **MIUI 13 Version 13.1.2**  
-  - [Magisk.27.NABU.V13.1.2.0.SKXTWXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.2.0.SKXTWXM.TAIWAN.boot.img)  
+  - [`Magisk.27.NABU.V13.1.2.0.SKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.1.2.0.SKXTWXM.TAIWAN.boot.img)  
 - **MIUI 13 Version 13.0.4**  
-  - [Magisk.27.NABU.V13.0.4.0.RKXTWXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXTWXM.TAIWAN.boot.img)  
+  - [`Magisk.27.NABU.V13.0.4.0.RKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.4.0.RKXTWXM.TAIWAN.boot.img)  
 - **MIUI 13 Version 13.0.3**  
-  - [Magisk.27.NABU.V13.0.3.0.RKXTWXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXTWXM.TAIWAN.boot.img)  
+  - [`Magisk.27.NABU.V13.0.3.0.RKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.3.0.RKXTWXM.TAIWAN.boot.img)  
 - **MIUI 13 Version 13.0.2**  
-  - [Magisk.27.NABU.V13.0.2.0.RKXTWXM.boot.img](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXTWXM.TAIWAN.boot.img)  
+  - [`Magisk.27.NABU.V13.0.2.0.RKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk.27.NABU.V13.0.2.0.RKXTWXM.TAIWAN.boot.img)  
 
 ### ** Happy Downloading ⬇️**
 ---
