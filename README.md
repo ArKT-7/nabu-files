@@ -1,16 +1,16 @@
-### 📦 **HyperOS and MIUI 14 Rooted Boot Images (Magisk 27000)** 🚀
+### 📦 **HyperOS and MIUI 14 Rooted Boot Images (Magisk 28000)** 🚀
 ### ⚠️ **This is only for Xiaomi Pad 5 (Nabu)** 📱
 
 ---
 
-🔓 This release includes **rooted boot images** for **all versions** of **HyperOS** and **MIUI 14 & 13** pre-rooted with **Magisk 27 (Stable)**. These boot images are ready to flash, providing a seamless rooting.
+🔓 This release includes **rooted boot images** for **all versions** of **HyperOS** and **MIUI 14 & 13** pre-rooted with **Magisk 28 (Stable)**. These boot images are ready to flash, providing a seamless rooting.
 
 ---
 
 ### **⚡ What's Included**
 - 🔑 Pre-rooted boot images for all available versions of Miui 14 & 13.
 - 🔑 Pre-rooted boot images for all available versions of HyperOS.
-- 📦 **Magisk 27000 Stable** pre-rooted boot for seamless root access.
+- 📦 **Magisk 28000 Stable** pre-rooted boot for seamless root access.
 
 ---
 ### **🛠️ Supported Versions of HyperOS**
