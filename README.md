@@ -85,7 +85,7 @@
 ### ** Happy Downloading ⬇️**
 
 ---
-### 📦 MIUI 14 Rooted Boot Images (Magisk 27000) 🚀
+### 📦 MIUI 14 Rooted Boot Images (Magisk 28000) 🚀
 ### ⚠️ For Xiaomi Pad 5 (Nabu) 📱
 
 ---
@@ -95,89 +95,89 @@
 
 #### **🌍 Global**
 - **MIUI 14 Version 14.0.8**
-  - [`Magisk.27.NABU.V14.0.8.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.8.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.V14.0.8.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.8.0.TKXMIXM.GLOBAL.boot.img)
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk.27.NABU.V14.0.7.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.7.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.V14.0.7.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.7.0.TKXMIXM.GLOBAL.boot.img)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk.27.NABU.V14.0.6.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.6.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.V14.0.6.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.6.0.TKXMIXM.GLOBAL.boot.img)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk.27.NABU.V14.0.5.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.5.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.V14.0.5.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.5.0.TKXMIXM.GLOBAL.boot.img)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk.27.NABU.V14.0.4.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.4.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.V14.0.4.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.4.0.TKXMIXM.GLOBAL.boot.img)
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk.27.NABU.V14.0.3.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.3.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.V14.0.3.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.3.0.TKXMIXM.GLOBAL.boot.img)
 
 
 #### **🇮🇳 India**
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk.27.NABU.V14.0.7.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.7.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.7.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.7.0.TKXINXM.INDIA.boot.img)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk.27.NABU.V14.0.4.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.4.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.4.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.4.0.TKXINXM.INDIA.boot.img)
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk.27.NABU.V14.0.3.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.3.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.3.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.3.0.TKXINXM.INDIA.boot.img)
 - **MIUI 14 Version 14.0.1**
-  - [`Magisk.27.NABU.V14.0.1.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.1.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.1.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.1.0.TKXINXM.INDIA.boot.img)
 
 #### **🇪🇺 EEA**
 - **MIUI 14 Version 14.0.9**
-  - [`Magisk.27.NABU.V14.0.9.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.9.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.9.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.9.0.TKXEUXM.EEA.boot.img)
 - **MIUI 14 Version 14.0.8**
-  - [`Magisk.27.NABU.V14.0.8.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.8.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.8.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.8.0.TKXEUXM.EEA.boot.img)
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk.27.NABU.V14.0.7.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.7.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.7.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.7.0.TKXEUXM.EEA.boot.img)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk.27.NABU.V14.0.6.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.6.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.6.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.6.0.TKXEUXM.EEA.boot.img)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk.27.NABU.V14.0.5.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.5.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.5.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.5.0.TKXEUXM.EEA.boot.img)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk.27.NABU.V14.0.4.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.4.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.4.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.4.0.TKXEUXM.EEA.boot.img)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk.27.NABU.V14.0.2.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.2.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.V14.0.2.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.2.0.TKXEUXM.EEA.boot.img)
 
 #### **🇷🇺 Russia**
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk.27.NABU.V14.0.7.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.7.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.7.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.7.0.TKXRUXM.RUSSIA.boot.img)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk.27.NABU.V14.0.6.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.6.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.6.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.6.0.TKXRUXM.RUSSIA.boot.img)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk.27.NABU.V14.0.5.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.5.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.5.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.5.0.TKXRUXM.RUSSIA.boot.img)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk.27.NABU.V14.0.4.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.4.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.4.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.4.0.TKXRUXM.RUSSIA.boot.img)
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk.27.NABU.V14.0.3.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.3.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.3.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.3.0.TKXRUXM.RUSSIA.boot.img)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk.27.NABU.V14.0.2.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.2.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.V14.0.2.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.2.0.TKXRUXM.RUSSIA.boot.img)
 
 
 
 #### **🇨🇳 China**
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk.27.NABU.V14.0.7.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.7.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk.28.NABU.V14.0.7.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.7.0.TKXCNXM.CHINA.boot.img)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk.27.NABU.V14.0.6.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.6.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk.28.NABU.V14.0.6.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.6.0.TKXCNXM.CHINA.boot.img)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk.27.NABU.V14.0.5.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.5.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk.28.NABU.V14.0.5.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.5.0.TKXCNXM.CHINA.boot.img)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk.27.NABU.V14.0.4.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.4.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk.28.NABU.V14.0.4.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.4.0.TKXCNXM.CHINA.boot.img)
 
 
 #### **🇹🇷 Turkey**
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk.27.NABU.V14.0.5.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.5.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.V14.0.5.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.5.0.TKXTRXM.TURKEY.boot.img)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk.27.NABU.V14.0.4.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.4.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.V14.0.4.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.4.0.TKXTRXM.TURKEY.boot.img)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk.27.NABU.V14.0.2.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.2.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.V14.0.2.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.2.0.TKXTRXM.TURKEY.boot.img)
 - **MIUI 14 Version 14.0.1**
-  - [`Magisk.27.NABU.V14.0.1.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.1.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.V14.0.1.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.1.0.TKXTRXM.TURKEY.boot.img)
 
 #### **🇹🇼 Taiwan**
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk.27.NABU.V14.0.3.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.3.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk.28.NABU.V14.0.3.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.3.0.TKXTWXM.TAIWAN.boot.img)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk.27.NABU.V14.0.2.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.2.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk.28.NABU.V14.0.2.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.2.0.TKXTWXM.TAIWAN.boot.img)
 - **MIUI 14 Version 14.0.1**
-  - [`Magisk.27.NABU.V14.0.1.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.27.NABU.V14.0.1.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk.28.NABU.V14.0.1.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk.28.NABU.V14.0.1.0.TKXTWXM.TAIWAN.boot.img)
 
 ### ** Happy Downloading ⬇️**
 ---
