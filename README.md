@@ -1,73 +1,85 @@
-### 📦 **HyperOS and MIUI 14 Rooted Boot Images (Magisk 27000)** 🚀
+### 📦 **HyperOS and MIUI 14 Rooted Boot Images (Magisk 28000)** 🚀
 ### ⚠️ **This is only for Xiaomi Pad 5 (Nabu)** 📱
 
 ---
 
-🔓 This release includes **rooted boot images** for **all versions** of **HyperOS** and **MIUI 14 & 13** pre-rooted with **Magisk 27 (Stable)**. These boot images are ready to flash, providing a seamless rooting.
+🔓 This release includes **rooted boot images** for **all versions** of **HyperOS** and **MIUI 14 & 13** pre-rooted with **Magisk 28 (Stable)**. These boot images are ready to flash, providing a seamless rooting.
 
 ---
 
 ### **⚡ What's Included**
 - 🔑 Pre-rooted boot images for all available versions of Miui 14 & 13.
 - 🔑 Pre-rooted boot images for all available versions of HyperOS.
-- 📦 **Magisk 27000 Stable** pre-rooted boot for seamless root access.
+- 📦 **Magisk 28000 Stable** pre-rooted boot for seamless root access.
 
 ---
 ### **🛠️ Supported Versions of HyperOS**
 
 #### **🇬🇧 Global**
+- **HyperOS Version 1.0.6**
+  - [`Magisk.28.NABU.OS1.0.6.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.6.0.TKXMIXM.GLOBAL.boot.img)
 - **HyperOS Version 1.0.5**
-  - [`Magisk.27.NABU.OS1.0.5.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.5.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.OS1.0.5.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.5.0.TKXMIXM.GLOBAL.boot.img)
 - **HyperOS Version 1.0.4**
-  - [`Magisk.27.NABU.OS1.0.4.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.4.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.OS1.0.4.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.4.0.TKXMIXM.GLOBAL.boot.img)
 - **HyperOS Version 1.0.1**
-  - [`Magisk.27.NABU.OS1.0.1.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.1.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk.28.NABU.OS1.0.1.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.1.0.TKXMIXM.GLOBAL.boot.img)
 
 #### **🇮🇳 India**
+- **HyperOS Version 1.0.9**
+  - [`Magisk.28.NABU.OS1.0.9.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.9.0.TKXINXM.INDIA.boot.img)
 - **HyperOS Version 1.0.8**
-  - [`Magisk.27.NABU.OS1.0.8.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.8.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.8.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.8.0.TKXINXM.INDIA.boot.img)
 - **HyperOS  Version 1.0.7**
-  - [`Magisk.27.NABU.OS1.0.7.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.7.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.7.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.7.0.TKXINXM.INDIA.boot.img)
 - **HyperOS Version 1.0.4**
-  - [`Magisk.27.NABU.OS1.0.4.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.4.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.4.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.4.0.TKXINXM.INDIA.boot.img)
 
 #### **🇪🇺 EEA**
+- **HyperOS Version 1.0.6**
+  - [`Magisk.28.NABU.OS1.0.6.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.6.0.TKXEUXM.EEA.boot.img)
 - **HyperOS Version 1.0.5**
-  - [`Magisk.27.NABU.OS1.0.5.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.5.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.5.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.5.0.TKXEUXM.EEA.boot.img)
 - **HyperOS Version 1.0.2**
-  - [`Magisk.27.NABU.OS1.0.2.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.2.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.2.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.2.0.TKXEUXM.EEA.boot.img)
 - **HyperOS Version 1.0.1**
-  - [`Magisk.27.NABU.OS1.0.1.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.1.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.1.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.1.0.TKXEUXM.EEA.boot.img)
 
 #### **🇷🇺 Russia**
+- **HyperOS Version 1.0.5**
+  - [`Magisk.28.NABU.OS1.0.5.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.5.0.TKXRUXM.RUSSIA.boot.img)
 - **HyperOS Version 1.0.4**
-  - [`Magisk.27.NABU.OS1.0.4.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.4.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.4.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.4.0.TKXRUXM.RUSSIA.boot.img)
 - **HyperOS Version 1.0.3**
-  - [`Magisk.27.NABU.OS1.0.3.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.3.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.3.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.3.0.TKXRUXM.RUSSIA.boot.img)
 - **HyperOS Version 1.0.1**
-  - [`Magisk.27.NABU.OS1.0.1.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.1.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.1.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.1.0.TKXRUXM.RUSSIA.boot.img)
 
 #### **🇨🇳 China**
 - **HyperOS Version 1.0.3**
-  - [`Magisk.27.NABU.OS1.0.3.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.3.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.3.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.3.0.TKXCNXM.CHINA.boot.img)
 - **HyperOS Version 1.0.2**
-  - [`Magisk.27.NABU.OS1.0.2.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.2.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk.28.NABU.OS1.0.2.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.2.0.TKXCNXM.CHINA.boot.img)
 
 #### **🇹🇷 Turkey**
+- **HyperOS Version 1.0.6**
+  - [`Magisk.28.NABU.OS1.0.6.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.6.0.TKXTRXM.TURKEY.boot.img)
 - **HyperOS Version 1.0.5**
-  - [`Magisk.27.NABU.OS1.0.5.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.5.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.OS1.0.5.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.5.0.TKXTRXM.TURKEY.boot.img)
 - **HyperOS Version 1.0.4**
-  - [`Magisk.27.NABU.OS1.0.4.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.4.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.OS1.0.4.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.4.0.TKXTRXM.TURKEY.boot.img)
 - **HyperOS Version 1.0.2**
-  - [`Magisk.27.NABU.OS1.0.2.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.2.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk.28.NABU.OS1.0.2.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.2.0.TKXTRXM.TURKEY.boot.img)
 
 #### **🇹🇼 Taiwan**
+- **HyperOS Version 1.0.6**
+  - [`Magisk.28.NABU.OS1.0.6.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.6.0.TKXTWXM.TAIWAN.boot.img)
 - **HyperOS Version 1.0.5**
-  - [`Magisk.27.NABU.OS1.0.5.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.5.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk.28.NABU.OS1.0.5.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.5.0.TKXTWXM.TAIWAN.boot.img)
 - **HyperOS Version 1.0.4**
-  - [`Magisk.27.NABU.OS1.0.4.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.4.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk.28.NABU.OS1.0.4.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.4.0.TKXTWXM.TAIWAN.boot.img)
 - **HyperOS Version 1.0.2**
-  - [`Magisk.27.NABU.OS1.0.2.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.27.NABU.OS1.0.2.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk.28.NABU.OS1.0.2.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk.28.NABU.OS1.0.2.0.TKXTWXM.TAIWAN.boot.img)
 
 
 ### ** Happy Downloading ⬇️**
