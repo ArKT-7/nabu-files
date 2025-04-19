@@ -26,6 +26,18 @@
   - [`Magisk_28.1_NABU.OS1.0.1.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.1.0.TKXMIXM.GLOBAL.boot.img)
 
 #### **🇮🇳 India**
+- **HyperOS Version 1.0.18**
+  - [`Magisk_28.1_NABU.OS1.0.18.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.18.0.TKXINXM.INDIA.boot.img)
+- **HyperOS Version 1.0.17**
+  - [`Magisk_28.1_NABU.OS1.0.17.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.17.0.TKXINXM.INDIA.boot.img)
+- **HyperOS Version 1.0.16**
+  - [`Magisk_28.1_NABU.OS1.0.16.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.16.0.TKXINXM.INDIA.boot.img)
+- **HyperOS Version 1.0.14**
+  - [`Magisk_28.1_NABU.OS1.0.14.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.14.0.TKXINXM.INDIA.boot.img)
+- **HyperOS Version 1.0.13**
+  - [`Magisk_28.1_NABU.OS1.0.13.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.13.0.TKXINXM.INDIA.boot.img)
+- **HyperOS Version 1.0.12**
+  - [`Magisk_28.1_NABU.OS1.0.12.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.12.0.TKXINXM.INDIA.boot.img)
 - **HyperOS Version 1.0.9**
   - [`Magisk_28.1_NABU.OS1.0.9.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_28.1_NABU.OS1.0.9.0.TKXINXM.INDIA.boot.img)
 - **HyperOS Version 1.0.8**
