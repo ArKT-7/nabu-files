@@ -1,103 +1,106 @@
 ### ⚠️ **This is only for Xiaomi Pad 5 (Nabu)** 📱
-### 📦 **HyperOS and MIUI 13 & 14 Rooted Boot Images (Magisk V29.0 - 29000) with V4 Modded TWRP** 🚀
+### 📦 **HyperOS and MIUI 13 & 14 Rooted Boot Images (Magisk V30.6 - 30600) with V4 Modded TWRP for Window** 🚀
 
 ---
 
-🔓 This release includes **rooted boot images** for **all versions** of **HyperOS & MIUI 13 & 14** pre-rooted with **Magisk 29.0 (Stable)** and packed with **V4 Modded TWRP**. These boot images are ready to flash, providing a seamless rooting with TWRP permanent.
+🔓 This release includes **rooted boot images** for **all versions** of **HyperOS & MIUI 13 & 14** pre-rooted with **Magisk v30.6 (Stable)** and packed with **V4 Modded TWRP for Windows**. These boot images are ready to flash, providing a seamless rooting with TWRP permanent.
 
 ---
 
 ### **⚡ What's Included**
 - 🔑 Pre-rooted with TWRP boot images for all available versions of HyperOS.
 - 🔑 Pre-rooted with TWRP boot images for all available versions of Miui 14 & 13.
-- 📦 **Magisk 29000 Stable** V29.0 pre-rooted boot for seamless root access and with V4 Modded TWRP.
+- 📦 **Magisk 30600 Stable** V30.6 pre-rooted boot for seamless root access and with V4 Modded TWRP for Windows.
 
+---
+### 📦 HyperOS Rooted Boot Images (Magisk V30.6 - 30600 + V4 Modded TWRP) 🚀
+### ⚠️ For Xiaomi Pad 5 (Nabu) 📱
 ---
 ### **🛠️ Supported Versions of HyperOS**
 
 #### **🇬🇧 Global**
 - **HyperOS Version 1.0.6**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXMIXM.GLOBAL.boot.zip)
 - **HyperOS Version 1.0.5**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXMIXM.GLOBAL.boot.zip)
 - **HyperOS Version 1.0.4**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXMIXM.GLOBAL.boot.zip)
 - **HyperOS Version 1.0.1**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.1.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.1.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.1.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.1.0.TKXMIXM.GLOBAL.boot.zip)
 
 #### **🇮🇳 India**
 - **HyperOS Version 1.0.18**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.18.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.18.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.18.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.18.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.17**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.17.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.17.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.17.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.17.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.16**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.16.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.16.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.16.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.16.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.14**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.14.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.14.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.14.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.14.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.13**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.13.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.13.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.13.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.13.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.12**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.12.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.12.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.12.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.12.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.9**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.9.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.9.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.9.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.9.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.8**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.8.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.8.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.8.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.8.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS  Version 1.0.7**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.7.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.7.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.7.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.7.0.TKXINXM.INDIA.boot.zip)
 - **HyperOS Version 1.0.4**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXINXM.INDIA.boot.zip)
 
 #### **🇪🇺 EEA**
 - **HyperOS Version 1.0.6**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXEUXM.EEA.boot.zip)
 - **HyperOS Version 1.0.5**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXEUXM.EEA.boot.zip)
 - **HyperOS Version 1.0.2**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXEUXM.EEA.boot.zip)
 - **HyperOS Version 1.0.1**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.1.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.1.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.1.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.1.0.TKXEUXM.EEA.boot.zip)
 
 #### **🇷🇺 Russia**
 - **HyperOS Version 1.0.5**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXRUXM.RUSSIA.boot.zip)
 - **HyperOS Version 1.0.4**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXRUXM.RUSSIA.boot.zip)
 - **HyperOS Version 1.0.3**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.3.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.3.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.3.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.3.0.TKXRUXM.RUSSIA.boot.zip)
 - **HyperOS Version 1.0.1**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.1.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.1.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.1.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.1.0.TKXRUXM.RUSSIA.boot.zip)
 
 #### **🇨🇳 China**
 - **HyperOS Version 1.0.3**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.3.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.3.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.3.0.TKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.3.0.TKXCNXM.CHINA.boot.zip)
 - **HyperOS Version 1.0.2**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXCNXM.CHINA.boot.zip)
 
 #### **🇹🇷 Turkey**
 - **HyperOS Version 1.0.6**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXTRXM.TURKEY.boot.zip)
 - **HyperOS Version 1.0.5**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXTRXM.TURKEY.boot.zip)
 - **HyperOS Version 1.0.4**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXTRXM.TURKEY.boot.zip)
 - **HyperOS Version 1.0.2**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXTRXM.TURKEY.boot.zip)
 
 #### **🇹🇼 Taiwan**
 - **HyperOS Version 1.0.6**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.6.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.6.0.TKXTWXM.TAIWAN.boot.zip)
 - **HyperOS Version 1.0.5**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.5.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.5.0.TKXTWXM.TAIWAN.boot.zip)
 - **HyperOS Version 1.0.4**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.4.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.4.0.TKXTWXM.TAIWAN.boot.zip)
 - **HyperOS Version 1.0.2**
-  - [`Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_29.0_TWRP_NABU.OS1.0.2.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/hyperos-rooted-boot/Magisk_30.6_TWRP_NABU.OS1.0.2.0.TKXTWXM.TAIWAN.boot.zip)
 
 
 ### **Happy Downloading ⬇️**
 
 ---
-### 📦 MIUI 14 Rooted Boot Images (Magisk V29.0 - 29000 + V4 Modded TWRP) 🚀
+### 📦 MIUI 14 Rooted Boot Images (Magisk V30.6 - 30600 + V4 Modded TWRP) 🚀
 ### ⚠️ For Xiaomi Pad 5 (Nabu) 📱
 ---
 
@@ -105,188 +108,144 @@
 
 #### **🌍 Global**
 - **MIUI 14 Version 14.0.8**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.8.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.8.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.8.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.8.0.TKXMIXM.GLOBAL.boot.zip)
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXMIXM.GLOBAL.boot.zip)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXMIXM.GLOBAL.boot.zip)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXMIXM.GLOBAL.boot.zip)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXMIXM.GLOBAL.boot.zip)
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXMIXM.GLOBAL.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXMIXM.GLOBAL.boot.zip)
 
 
 #### **🇮🇳 India**
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXINXM.INDIA.boot.zip)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXINXM.INDIA.boot.zip)
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXINXM.INDIA.boot.zip)
 - **MIUI 14 Version 14.0.1**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.1.0.TKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.1.0.TKXINXM.INDIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.1.0.TKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.1.0.TKXINXM.INDIA.boot.zip)
 
 #### **🇪🇺 EEA**
 - **MIUI 14 Version 14.0.9**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.9.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.9.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.9.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.9.0.TKXEUXM.EEA.boot.zip)
 - **MIUI 14 Version 14.0.8**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.8.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.8.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.8.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.8.0.TKXEUXM.EEA.boot.zip)
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXEUXM.EEA.boot.zip)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXEUXM.EEA.boot.zip)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXEUXM.EEA.boot.zip)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXEUXM.EEA.boot.zip)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXEUXM.EEA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXEUXM.EEA.boot.zip)
 
 #### **🇷🇺 Russia**
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXRUXM.RUSSIA.boot.zip)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXRUXM.RUSSIA.boot.zip)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXRUXM.RUSSIA.boot.zip)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXRUXM.RUSSIA.boot.zip)
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXRUXM.RUSSIA.boot.zip)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXRUXM.RUSSIA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXRUXM.RUSSIA.boot.zip)
 
 
 
 #### **🇨🇳 China**
 - **MIUI 14 Version 14.0.7**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.7.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.7.0.TKXCNXM.CHINA.boot.zip)
 - **MIUI 14 Version 14.0.6**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.6.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.6.0.TKXCNXM.CHINA.boot.zip)
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXCNXM.CHINA.boot.zip)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXCNXM.CHINA.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXCNXM.CHINA.boot.zip)
 
 
 #### **🇹🇷 Turkey**
 - **MIUI 14 Version 14.0.5**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.5.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.5.0.TKXTRXM.TURKEY.boot.zip)
 - **MIUI 14 Version 14.0.4**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.4.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.4.0.TKXTRXM.TURKEY.boot.zip)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXTRXM.TURKEY.boot.zip)
 - **MIUI 14 Version 14.0.1**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.1.0.TKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.1.0.TKXTRXM.TURKEY.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.1.0.TKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.1.0.TKXTRXM.TURKEY.boot.zip)
 
 #### **🇹🇼 Taiwan**
 - **MIUI 14 Version 14.0.3**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.3.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.3.0.TKXTWXM.TAIWAN.boot.zip)
 - **MIUI 14 Version 14.0.2**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.2.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.2.0.TKXTWXM.TAIWAN.boot.zip)
 - **MIUI 14 Version 14.0.1**
-  - [`Magisk_29.0_TWRP_NABU.V14.0.1.0.TKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_29.0_TWRP_NABU.V14.0.1.0.TKXTWXM.TAIWAN.boot.img)
+  - [`Magisk_30.6_TWRP_NABU.V14.0.1.0.TKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui14-rooted-boot/Magisk_30.6_TWRP_NABU.V14.0.1.0.TKXTWXM.TAIWAN.boot.zip)
 
 ### **Happy Downloading ⬇️**
 
 ---
-### 📦 MIUI 13 Rooted Boot Images (Magisk V29.0 - 29000 + V4 Modded TWRP) 🚀
+### 📦 MIUI 13 Rooted Boot Images (Magisk V30.6 - 30600 + V4 Modded TWRP) 🚀
 ### ⚠️ For Xiaomi Pad 5 (Nabu) 📱
 ---
-### **🛠️ Supported Versions of MIUI 13**
+### **🛠️ Supported Versions of MIUI 13 (A12 Only)**
 
 #### **🌍 Global**  
 - **MIUI 13 Version 13.1.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXMIXM.GLOBAL.boot.zip)  
 - **MIUI 13 Version 13.1.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.3.0.SKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.3.0.SKXMIXM.GLOBAL.boot.img)  
-- **MIUI 13 Version 13.0.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXMIXM.GLOBAL.boot.img)  
-- **MIUI 13 Version 13.0.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXMIXM.GLOBAL.boot.img)  
-- **MIUI 13 Version 13.0.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXMIXM.GLOBAL.boot.img)  
-- **MIUI 13 Version 13.0.1**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.1.0.RKXMIXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.1.0.RKXMIXM.GLOBAL.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.3.0.SKXMIXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.3.0.SKXMIXM.GLOBAL.boot.zip)  
+
 
 #### **🇮🇳 India**  
 - **MIUI 13 Version 13.1.8**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.8.0.SKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.8.0.SKXINXM.INDIA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.8.0.SKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.8.0.SKXINXM.INDIA.boot.zip)  
 - **MIUI 13 Version 13.1.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXINXM.INDIA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXINXM.INDIA.boot.zip)  
 - **MIUI 13 Version 13.1.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.3.0.SKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.3.0.SKXINXM.INDIA.boot.img)  
-- **MIUI 13 Version 13.0.6**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.6.0.RKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.6.0.RKXINXM.INDIA.boot.img)  
-- **MIUI 13 Version 13.0.5**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.5.0.RKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.5.0.RKXINXM.INDIA.boot.img)  
-- **MIUI 13 Version 13.0.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXINXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXINXM.INDIA.boot.img)  
-  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.3.0.SKXINXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.3.0.SKXINXM.INDIA.boot.zip)  
+
 
 #### **🇷🇺 Russia**  
 - **MIUI 13 Version 13.1.6**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.6.0.SKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.6.0.SKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.6.0.SKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.6.0.SKXRUXM.RUSSIA.boot.zip)  
 - **MIUI 13 Version 13.1.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXRUXM.RUSSIA.boot.img)  
-- **MIUI 13 Version 13.0.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXRUXM.RUSSIA.boot.img)  
-- **MIUI 13 Version 13.0.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXRUXM.RUSSIA.boot.img)  
-- **MIUI 13 Version 13.0.1**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.1.0.RKXRUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.1.0.RKXRUXM.RUSSIA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXRUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXRUXM.RUSSIA.boot.zip)  
 
 #### **🇪🇺 EEA**  
 - **MIUI 13 Version 13.1.5**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.5.0.SKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.5.0.SKXEUXM.EEA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.5.0.SKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.5.0.SKXEUXM.EEA.boot.zip)  
 - **MIUI 13 Version 13.1.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.3.0.SKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.3.0.SKXEUXM.EEA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.3.0.SKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.3.0.SKXEUXM.EEA.boot.zip)  
 - **MIUI 13 Version 13.1.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.2.0.SKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.2.0.SKXEUXM.EEA.boot.img)  
-- **MIUI 13 Version 13.0.6**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.6.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.6.0.RKXEUXM.EEA.boot.img)  
-- **MIUI 13 Version 13.0.5**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.5.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.5.0.RKXEUXM.EEA.boot.img)  
-- **MIUI 13 Version 13.0.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXEUXM.EEA.boot.img)  
-- **MIUI 13 Version 13.0.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXEUXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXEUXM.EEA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.2.0.SKXEUXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.2.0.SKXEUXM.EEA.boot.zip)  
 
 #### **🇨🇳 China**  
 - **MIUI 13 Version 13.1.5**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.5.0.SKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.5.0.SKXCNXM.CHINA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.5.0.SKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.5.0.SKXCNXM.CHINA.boot.zip)  
 - **MIUI 13 Version 13.1.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.4.0.SKXCNXM.CHINA.boot.img)  
-- **MIUI 13 Version 13.0.9**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.9.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.9.0.RKXCNXM.CHINA.boot.img)  
-- **MIUI 13 Version 13.0.8**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.8.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.8.0.RKXCNXM.CHINA.boot.img)  
-- **MIUI 13 Version 13.0.5**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.5.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.5.0.RKXCNXM.CHINA.boot.img)  
-- **MIUI 13 Version 13.0.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXCNXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXCNXM.CHINA.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXCNXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.4.0.SKXCNXM.CHINA.boot.zip)  
+
 
 #### **🇹🇷 Turkey**  
 - **MIUI 13 Version 13.1.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.2.0.SKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.2.0.SKXTRXM.TURKEY.boot.img)  
-- **MIUI 13 Version 13.0.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXTRXM.TURKEY.boot.img)  
-- **MIUI 13 Version 13.0.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXTRXM.TURKEY.boot.img)  
-- **MIUI 13 Version 13.0.1**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.1.0.RKXTRXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.1.0.RKXTRXM.TURKEY.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.2.0.SKXTRXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.2.0.SKXTRXM.TURKEY.boot.zip)  
+
 
 #### **🇹🇼 Taiwan**  
 - **MIUI 13 Version 13.1.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.1.2.0.SKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.1.2.0.SKXTWXM.TAIWAN.boot.img)  
-- **MIUI 13 Version 13.0.4**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.4.0.RKXTWXM.TAIWAN.boot.img)  
-- **MIUI 13 Version 13.0.3**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.3.0.RKXTWXM.TAIWAN.boot.img)  
-- **MIUI 13 Version 13.0.2**  
-  - [`Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXTWXM.boot.img`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_29.0_TWRP_NABU.V13.0.2.0.RKXTWXM.TAIWAN.boot.img)  
+  - [`Magisk_30.6_TWRP_NABU.V13.1.2.0.SKXTWXM.boot.zip`](https://raw.githubusercontent.com/arkt-7/nabu-files/main/miui13-rooted-boot/Magisk_30.6_TWRP_NABU.V13.1.2.0.SKXTWXM.TAIWAN.boot.zip)  
+
 
 ### ** Happy Downloading ⬇️**
 ---
