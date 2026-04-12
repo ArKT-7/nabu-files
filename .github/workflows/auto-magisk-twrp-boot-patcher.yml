@@ -1,0 +1,141 @@
+name: Magisk & TWRP Boot Patcher
+
+on:
+  workflow_dispatch:
+    inputs:
+      magisk_link:
+        description: 'Direct link to Magisk APK (Leave blank for default v30.7)'
+        required: false
+        type: string
+      rom_link:
+        description: 'Direct link to boot.img OR GitHub Release link (For Bulk Patching)'
+        required: true
+        type: string
+      include_twrp:
+        description: 'Do you want to Integrate TWRP Ramdisk?'
+        required: true
+        type: boolean
+        default: true
+      is_aosp:
+        description: 'is this an AOSP ROM Boot file? (If Yes, provide Vendor Boot link below)'
+        required: true
+        type: boolean
+        default: false
+      vendor_boot_link:
+        description: 'Direct link to vendor_boot.img (Ignored if left blank)'
+        required: false
+        type: string
+      android_sdk_fallback:
+        description: 'Fallback Target Android API (e.g. 36 for Android 16)'
+        required: true
+        type: string
+        default: '36'
+
+jobs:
+  patch_images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+
+      - name: Fetch Images
+        id: fetch-img
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ROM_LINK: ${{ github.event.inputs.rom_link }}
+          MAGISK_LINK: ${{ github.event.inputs.magisk_link }}
+          VENDOR_BOOT_LINK: ${{ github.event.inputs.vendor_boot_link }}
+        run: |
+          mkdir -p imgs_files
+          cd imgs_files
+          
+          if [ -n "$MAGISK_LINK" ]; then
+              echo "Downlaoding Magisk..."
+              curl -L -# -o "Magisk.apk" "$MAGISK_LINK"
+              echo "MAGISK_ARG=-m $PWD/Magisk.apk" >> $GITHUB_ENV
+          else
+              echo "MAGISK_ARG=" >> $GITHUB_ENV
+          fi
+
+          if [[ "$ROM_LINK" =~ github\.com/([^/]+)/([^/]+)/releases/tag/([^/]+) ]]; then
+              OWNER="${BASH_REMATCH[1]}"
+              REPO="${BASH_REMATCH[2]}"
+              TAG="${BASH_REMATCH[3]}"
+              
+              echo "Fetching images list from $OWNER/$REPO on $TAG tag..."
+              gh release view "$TAG" -R "$OWNER/$REPO" --json assets --jq '.assets[].name' | grep '\.img$' > images.txt || true
+              
+              TOTAL_FILES=$(wc -l < images.txt)
+              
+              echo ""
+              echo "Found $TOTAL_FILES .img files:"
+              awk '{print NR ". " $0}' images.txt
+              
+              echo ""
+              echo "Downloading all files one by one..."
+              
+              while read -r filename; do
+                  gh release download "$TAG" -R "$OWNER/$REPO" -p "$filename"
+              done < images.txt
+              
+              rm -f *vendor_boot*.img
+          else
+              echo "Downloading boot.img..."
+              curl -L -# -o "boot.img" "$ROM_LINK"
+          fi
+
+          if [ -n "$VENDOR_BOOT_LINK" ]; then
+              echo ""
+              echo "Downloading vendor_boot.img..."
+              curl -L -# -o "vendor_boot.img" "$VENDOR_BOOT_LINK"
+              echo "VENDOR_ARG=-v $PWD/vendor_boot.img" >> $GITHUB_ENV
+          else
+              echo "VENDOR_ARG=" >> $GITHUB_ENV
+          fi
+
+      - name: Execute Patcher Script
+        env:
+          INCLUDE_TWRP: ${{ github.event.inputs.include_twrp == 'true' && '1' || '0' }}
+          IS_AOSP: ${{ github.event.inputs.is_aosp == 'true' && '1' || '0' }}
+          SDK_VER: ${{ github.event.inputs.android_sdk_fallback }}
+        run: |
+          chmod +x magisk_twrp_boot_patcher.sh
+          
+          cd imgs_files
+          
+          TOTL_IMGS=$(ls *.img 2>/dev/null | grep -v "vendor_boot.img" | wc -l)
+          CURR_IMGS=1
+          
+          for BOOT_FILE in *.img; do
+              if [ "$BOOT_FILE" == "vendor_boot.img" ] || [ ! -f "$BOOT_FILE" ]; then
+                  continue
+              fi
+              
+              echo ""
+              echo ""
+              echo "[$CURR_IMGS/$TOTL_IMGS] Patching $BOOT_FILE"
+              echo ""
+              echo ""
+              
+              cd ../../
+              
+              ./magisk_twrp_boot_patcher.sh \
+                -b "$PWD/imgs_files/$BOOT_FILE" \
+                ${VENDOR_ARG} \
+                ${MAGISK_ARG} \
+                -t "$INCLUDE_TWRP" \
+                -a "$IS_AOSP" \
+                -s "$SDK_VER"
+                
+              cd imgs_files
+              CURR_IMGS=$((CURR_IMGS + 1))
+          done
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: Magisk_TWRP_Patched_Images
+          path: |
+            **/patched_release/
+            **/patched_images/
+          if-no-files-found: error
