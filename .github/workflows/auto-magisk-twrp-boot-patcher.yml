@@ -35,8 +35,9 @@ jobs:
   patch_images:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v6
+      - name: Download Patcher Script
+        run: |
+          curl -L -# -o magisk_twrp_boot_patcher.sh "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/magisk_twrp_boot_patcher.sh"
 
       - name: Fetch Images
         id: fetch-img
@@ -117,7 +118,7 @@ jobs:
               echo ""
               echo ""
               
-              cd ../../
+              cd ..
               
               ./magisk_twrp_boot_patcher.sh \
                 -b "$PWD/imgs_files/$BOOT_FILE" \
