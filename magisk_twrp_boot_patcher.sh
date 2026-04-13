@@ -31,6 +31,7 @@ while [[ "$#" -gt 0 ]]; do
         -v|--vendor) VENDOR_PATH="$2"; shift ;;
         -m|--magisk) MAGISK_PATH="$2"; shift ;;
         -t|--twrp) INSTALL_TWRP="$2"; shift ;;
+        -r|--ramdisk) RAMDISK_TYPE="$2"; shift ;;
         -a|--aosp) IS_AOSP="$2"; shift ;;
         -s|--sdk) TARGET_SDK_VER="$2"; shift ;;
         *) echo "[!] Unknown parameter: $1"; exit 1 ;;
@@ -123,11 +124,20 @@ patch_twrp_recovery() {
     [ "$INSTALL_TWRP" -ne 1 ] && return 0
     TWRP_RAMDISK_PATH="$WORK_DIR/ramdisk.cpio"
     
-    log "[INFO] Downloading TWRP Ramdisk..."
-    download_with_fallback \
-        "$BASE_URL/files/ramdisk.cpio" \
-        "$BASE_URL/files/ramdisk.cpio" \
-        "$TWRP_RAMDISK_PATH"
+    if [ ! -f "$TWRP_RAMDISK_PATH" ]; then
+        case "$RAMDISK_TYPE" in
+            "windows"|"win"|1) RAMDISK_VER="win-ramdisk.cpio" ;;
+            "linux"|"lin"|2) RAMDISK_VER="lin-ramdisk.cpio" ;;
+            *) RAMDISK_VER="nor-ramdisk.cpio" ;;
+        esac
+        RAMDISK_URL="https://raw.githubusercontent.com/ArKT-7/nabu-files/main/recovery/$RAMDISK_VER"
+
+        log "[INFO] Downloading TWRP Ramdisk ($RAMDISK_VER)..."
+        download_with_fallback \
+            "$RAMDISK_URL" \
+            "$RAMDISK_URL" \
+            "$TWRP_RAMDISK_PATH"
+    fi
 
     if [ ! -f "$TWRP_RAMDISK_PATH" ]; then
         log "[WARNING] Ramdisk download failed, Skipping TWRP integration..."
@@ -479,15 +489,19 @@ if [ "$ARG_GIVEN_FR" -eq 0 ]; then
     fi
 
     echo -e "\nDo you want to integrate a Custom Recovery (TWRP) Ramdisk (Ensure kernel supports it)?"
-    echo -e "1) Yes"
-    echo -e "2) No"
+    echo -e "1) Yes - With Windows Mod"
+    echo -e "2) Yes - With Linux Mod"
+    echo -e "3) Yes - With Normal Mod"
+    echo -e "4) No - Do not integrate TWRP"
     while true; do
-        echo -n "Enter selection (1-2): "
-        read -r choice
-        case "$choice" in
-            1) INSTALL_TWRP=1; break ;;
-            2) INSTALL_TWRP=0; break ;;
-            *) echo "Invalid option!" ;;
+        echo -n "Enter selection (1-4) [Default 4]: "
+        read -r twrp_choice
+        case "$twrp_choice" in
+            1) INSTALL_TWRP=1; RAMDISK_TYPE="windows"; break ;;
+            2) INSTALL_TWRP=1; RAMDISK_TYPE="linux"; break ;;
+            3) INSTALL_TWRP=1; RAMDISK_TYPE="normal"; break ;;
+            4|"") INSTALL_TWRP=0; RAMDISK_TYPE="none"; break ;;
+            *) echo -e "[ERROR] Invalid option!" ;;
         esac
     done
 

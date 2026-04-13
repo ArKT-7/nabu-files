@@ -11,11 +11,16 @@ on:
         description: 'Direct link to boot.img OR GitHub Release link (For Bulk Patching)'
         required: true
         type: string
-      include_twrp:
-        description: 'Do you want to Integrate TWRP Ramdisk?'
+      twrp_ramdisk:
+        description: 'Integrate TWRP Ramdisk? Select the Type or none to skip'
         required: true
-        type: boolean
-        default: true
+        type: choice
+        options:
+          - none
+          - normal
+          - windows
+          - linux
+        default: 'windows'
       is_aosp:
         description: 'is this an AOSP ROM Boot file? (If Yes, provide Vendor Boot link below)'
         required: true
@@ -96,7 +101,7 @@ jobs:
 
       - name: Execute Patcher Script
         env:
-          INCLUDE_TWRP: ${{ github.event.inputs.include_twrp == 'true' && '1' || '0' }}
+          RAMDISK_CHOICE: ${{ github.event.inputs.twrp_ramdisk }}
           IS_AOSP: ${{ github.event.inputs.is_aosp == 'true' && '1' || '0' }}
           SDK_VER: ${{ github.event.inputs.android_sdk_fallback }}
         run: |
@@ -106,6 +111,12 @@ jobs:
           
           TOTL_IMGS=$(ls *.img 2>/dev/null | grep -v "vendor_boot.img" | wc -l)
           CURR_IMGS=1
+          
+          if [ "$RAMDISK_CHOICE" = "none" ]; then
+              INCLUDE_TWRP="0"
+          else
+              INCLUDE_TWRP="1"
+          fi
           
           for BOOT_FILE in *.img; do
               if [ "$BOOT_FILE" == "vendor_boot.img" ] || [ ! -f "$BOOT_FILE" ]; then
@@ -125,6 +136,7 @@ jobs:
                 ${VENDOR_ARG} \
                 ${MAGISK_ARG} \
                 -t "$INCLUDE_TWRP" \
+                -r "$RAMDISK_CHOICE" \
                 -a "$IS_AOSP" \
                 -s "$SDK_VER"
                 
